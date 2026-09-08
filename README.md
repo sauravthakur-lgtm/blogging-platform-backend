@@ -1,7 +1,6 @@
 # Blogging Platform Backend
 
-This project is being developed using NestJS, PostgreSQL and Prisma.
-
+This project is being developed using NestJS, PostgreSQL, Prisma and JWT.
 
 
 <p align="center">
